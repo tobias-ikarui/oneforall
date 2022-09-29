@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@joefallon/mysql-date": "^0.1.2",
+    "advanced-command-handler": "^3.1.0",
+    "aybabtu": "^1.1.6",
+    "dblapi.js": "^2.4.1",
+    "discord-backup": "^3.0.1",
+    "discord-giveaways": "^4.5.1",
+    "discord-logs": "^2.0.1",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "distube": "^2.8.11",
+    "dotenv": "^16.0.0",
+    "duratiform": "^2.0.0",
+    "fast-date-format": "^2.2.4",
+    "hex-color-regex": "^1.1.0",
+    "luxon": "^2.3.0",
+    "lyrics-finder": "^21.7.0",
+    "moment": "^2.29.1",
+    "mysql2": "^2.3.3",
+    "mysql2-promise": "^0.1.4",
+    "node-cron": "^3.0.0",
+    "number-to-emoji": "^1.0.0",
+    "pretty-ms": "^7.0.1",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "sequelize": "^6.15.0",
+    "soundcloud-scraper": "^5.0.2",
+    "string-progressbar": "^1.0.4",
+    "youtubei": "^0.0.1-rc.27"
+  }
+}
